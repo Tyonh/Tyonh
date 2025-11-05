@@ -2,7 +2,7 @@
  - I'm developing myself in this programming universe
 
 <a href="https://github.com/Tyonh/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Tyonh&theme=dark" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Tyonh&theme=dark" />
 </a>
 <a href="https://github.com/Tyonh/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tyonh&layout=compact&langs_count=8&card_width=300&theme=dark" />
