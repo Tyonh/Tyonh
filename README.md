@@ -1,7 +1,7 @@
  # Hi, I’m @GeovaneCamelo👋
  - I'm developing myself in this programming universe
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
