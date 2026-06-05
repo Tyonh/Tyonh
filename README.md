@@ -61,9 +61,8 @@
 />
 <br/>
 <br/>
-<a href="https://github.com/doongjun/commitmon">
-  <img alt="commitmon" src="https://commitmon.me/adventure?username=${Tyonh}&theme=${grassland}&userFetchType=${all}" width="600px" />
-</a>
+
+
 
 
 <!---
